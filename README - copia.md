@@ -1,6 +1,6 @@
 
 # API Concurrency call limiter
-Prueba
+
 Axway API-Manager allows you to easily apply quotas to your APIs on System- and Application-Level which makes sure, that
 only a configured number of requests will be processed by an API or API-Method in a configured timeframe.  
 However, in some situations backend-applications providing the services, may not be fully functional 
